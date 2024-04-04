@@ -6,3 +6,7 @@ Files: https://github.com/KaruDei/MobilePlatformerGame.git
 ## Mobile Tycoon 3D
 Files: https://github.com/KaruDei/MobileTycoon3D.git
 Задача: Купить все производственные станции и стать богатым.
+
+## MiniFarm
+Files: https://github.com/KaruDei/MiniFarm.git
+Задача: Выращивать растения и выполнять заказы на доске заказов.
